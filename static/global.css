@@ -1,0 +1,23 @@
+* {
+  --accent-color: darkgreen;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  background-color: #dadadada;
+}
+.content-box {
+  background-color: #fafafafa;
+  padding: 0.5em;
+  border: grey solid 1px;
+  border-radius: 0.5em;
+  width: fit-content;
+  height: fit-content;
+}
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 0;
+}
